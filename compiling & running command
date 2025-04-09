@@ -1,0 +1,2 @@
+Compilation command:  g++ -o automated_lighting automated_lighting.cpp -lwiringPi
+Running Command:      sudo ./automated_lighting
